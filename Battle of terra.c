@@ -134,7 +134,7 @@ void selecting_location(int locn, int arean){
 void enemyselecting_location(int locsn, int areasn){
 	switch(locsn){
 		case 0:
-			printf("\n Enemy Entering Skeletal Dungeon, their unit will have their health increased by 13%% \n");
+			printf("\n Enemy Entering Skeletal Dungeon, their unit will have their health decreased by 13%% \n");
 			//Here we are taking sdc which is the amount of times the computer visited skeletal dungeon, and sdcc which is the currrent value of the varibale to check if we should apply the buffs or debuffs
 			skeletal_count(&sdc_two, &sdcc_two);
 			//Here we are applying the debuff only if sdcc is equal to 1 thanks to the function health_decrease
