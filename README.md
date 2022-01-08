@@ -1,7 +1,7 @@
 # BattleOfTerra
 
 ## Introduction
-This is a program I made for my c++class, essentially we were allowed to create whatever we wanted as long as we implemented everything we learned from the course into the project. I decided to make a game that essentially utilizes a grid similar to tic tac toe but instead of having three x to win, you move a unit to a location on the grid which will cause buffs or debuffs. While you are moving your unit, the opponent computer will move their unit to a random spot on the grid. If both Units are on the same spot, combat will commence. This was a program I wanted to make since I wanted to make something different, but also challenging.
+This is a program I made for my C class, essentially we were allowed to create whatever we wanted as long as we implemented everything we learned from the course into the project. I decided to make a game that essentially utilizes a grid similar to tic tac toe but instead of having three x to win, you move a unit to a location on the grid which will cause buffs or debuffs. While you are moving your unit, the opponent computer will move their unit to a random spot on the grid. If both Units are on the same spot, combat will commence. This was a program I wanted to make since I wanted to make something different, but also challenging.
 
 # The Games rules
 
